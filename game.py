@@ -1,5 +1,3 @@
-#Name:   Poon Wing Sze
-#SID:    20510776
 import turtle
 
 window_height = 600
